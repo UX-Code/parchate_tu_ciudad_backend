@@ -1,2 +1,7 @@
-# parchate_tu_ciudad_backend
-Este va ser el repositorio encargado de la logica de negocio orientada a la web para la aplicación parchate tu ciudad 
+# PARCHATE TU CIUDAD *Backend*
+
+** PASOS DE INSTALACION **
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
